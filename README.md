@@ -1,64 +1,34 @@
-# Olá, eu sou William de Sousa Silva!
+# William de Sousa Silva
 
-🎓 Estudante de **Ciência da Computação**  
-💻 Interessado em **Desenvolvimento de Software, Desenvolvimento Web e Inteligência Artificial**
+Estudante de Ciência da Computação no Unipê, com foco em desenvolvimento back-end e interesse em Inteligência Artificial.
 
-##  Sobre mim
+## Sobre mim
 
-Sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades na área de tecnologia por meio de estudos, projetos acadêmicos e projetos pessoais.
+- Ciência da Computação no Unipê (2026 a 2029), em João Pessoa, PB
+- Foco em back-end: Python, SQL e modelagem de banco de dados
+- Uso Git no dia a dia: branches, pull requests e Conventional Commits
+- Começando a estudar Inteligência Artificial
+- Inglês intermediário
+- Buscando meu primeiro estágio em desenvolvimento, presencial em João Pessoa ou remoto
 
-Tenho interesse em transformar ideias em soluções tecnológicas e estou constantemente buscando aprender novas ferramentas e aprimorar meus conhecimentos em programação.
+## Tecnologias
 
-Atualmente, estou focado principalmente em desenvolvimento web, Python, Inteligência Artificial e bancos de dados.
+Python · SQL · C · HTML · CSS · JavaScript · Git · GitHub
 
-##  Competências
+Estudando: React · TypeScript · Inteligência Artificial
 
-- Python
-- HTML
-- CSS
-- SQL
-- Git
-- GitHub
-- Inteligência Artificial
-- React
-- TypeScript
+## Projetos
 
-##  Projetos
+| Projeto | O que é | Destaques |
+|---|---|---|
+| [Burguer Pro](https://github.com/WilliamSilva0/projeto-integrador-frontend-WilliamSilva-) | Cardápio digital de uma hamburgueria fictícia, feito no Projeto Integrador de Front-End | HTML semântico, CSS e JavaScript; formulário de reserva de mesa; nota 10/10 na revisão dos colegas |
 
-###  Burguer Pro
+## Em andamento
 
-Site de cardápio digital desenvolvido para uma hamburgueria fictícia.
+- Simulador de montagem de PC em C (projeto em dupla da disciplina de Algoritmos e Pensamento Computacional)
+- Interface do catálogo online de uma loja de roupas
 
-O projeto apresenta os produtos do cardápio, preços e um formulário para reserva de mesa.
+## Contato
 
-**Tecnologias:** HTML e CSS.
-
-🔗 [Acessar o projeto](https://github.com/WilliamSilva0/projeto-integrador-frontend-WilliamSilva-)
-
-###  Projetos acadêmicos
-
-Projetos desenvolvidos durante minha formação em Ciência da Computação, aplicando conceitos de programação, desenvolvimento web e tecnologia.
-
-##  Formação
-
-**Ciência da Computação**  
-Em andamento
-
-##  Atualmente estudando
-
-- Python
-- Desenvolvimento Web
-- React
-- TypeScript
-- Inteligência Artificial
-- SQL
-- Inglês
-
-##  Contato
-
-- GitHub: [WilliamSilva0](https://github.com/WilliamSilva0)
-- LinkedIn: Em breve
-
----
-
- Sempre aprendendo, desenvolvendo e evoluindo.
+- LinkedIn: [linkedin.com/in/william-de-sousa-silva](https://www.linkedin.com/in/william-de-sousa-silva/)
+- E-mail: williamdss.dv@gmail.com
