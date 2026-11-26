@@ -19,9 +19,9 @@ Estudando: React · TypeScript · Inteligência Artificial
 
 ## Projetos
 
-| Projeto | O que é | Destaques |
-|---|---|---|
-| [Burguer Pro](https://github.com/WilliamSilva0/projeto-integrador-frontend-WilliamSilva-) | Cardápio digital de uma hamburgueria fictícia, feito no Projeto Integrador de Front-End | HTML semântico, CSS e JavaScript; formulário de reserva de mesa; nota 10/10 na revisão dos colegas |
+| Projeto | O que é | Destaques | Links |
+|---|---|---|---|
+| Burguer Pro | Cardápio digital de uma hamburgueria fictícia, feito no Projeto Integrador de Front-End | HTML semântico, CSS e JavaScript; formulário de reserva de mesa; nota 10/10 na revisão dos colegas | [Site](https://williamsilva0.github.io/projeto-integrador-frontend-WilliamSilva-/) · [Código](https://github.com/WilliamSilva0/projeto-integrador-frontend-WilliamSilva-) |
 
 ## Em andamento
 
