@@ -1,20 +1,21 @@
 # William de Sousa Silva
 
-Estudante de Ciência da Computação no Unipê, com foco em desenvolvimento back-end e interesse em Inteligência Artificial.
+Estudante de Ciência da Computação no Unipê, com foco em desenvolvimento back-end e Inteligência Artificial.
 
 ## Sobre mim
 
 - Ciência da Computação no Unipê (2026 a 2029), em João Pessoa, PB
-- Foco em back-end: Python, SQL e modelagem de banco de dados
+- Foco em back-end e Inteligência Artificial
+- Estudando IA aplicada ao back-end: integração com modelos de linguagem (LLMs) e automação
 - Uso Git no dia a dia: branches, pull requests e Conventional Commits
-- Começando a estudar Inteligência Artificial
-- Inglês intermediário
+- Inglês básico, em estudo
 - Buscando meu primeiro estágio em desenvolvimento
+
 ## Tecnologias
 
-Python · SQL · C · HTML · CSS · JavaScript · Git · GitHub
+Python · SQL · HTML · CSS · JavaScript · Git · GitHub
 
-Estudando: React · TypeScript · Inteligência Artificial
+Estudando: Inteligência Artificial · React · TypeScript
 
 ## Projetos
 
