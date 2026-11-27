@@ -9,8 +9,7 @@ Estudante de Ciência da Computação no Unipê, com foco em desenvolvimento bac
 - Uso Git no dia a dia: branches, pull requests e Conventional Commits
 - Começando a estudar Inteligência Artificial
 - Inglês intermediário
-- Buscando meu primeiro estágio em desenvolvimento, presencial em João Pessoa ou remoto
-
+- Buscando meu primeiro estágio em desenvolvimento
 ## Tecnologias
 
 Python · SQL · C · HTML · CSS · JavaScript · Git · GitHub
